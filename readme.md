@@ -27,15 +27,15 @@ $   sudo apt upgrade
 Run these 3 commands to update Git.
 
 ```
-sudo add-apt-repository -y ppa:git-core/ppa
+$  sudo add-apt-repository -y ppa:git-core/ppa
 ```
 
 ```
-sudo apt-get update
+$  sudo apt-get update
 ```
 
 ```
-sudo apt-get install git -y
+$  sudo apt-get install git -y
 ```
 
 You can check your Git version with `git --version`. See if it matches
@@ -133,7 +133,7 @@ Generate a new SSH key:
 ```
 $  ssh-keygen -t rsa -b 4096
 ```
-The terminal will prompt you for: `Enter file in which to save the key (/home/bonsy/.ssh/id_rsa):`. I usually just keep 
+The terminal will prompt you for: `Enter file in which to save the key (/home/{username}}/.ssh/id_rsa):`. I usually just keep 
 the suggested location by pressing enter.
 Then the terminal will prompt you for passphrase. Which you can leave blank if you'd like. Press enter.
 
