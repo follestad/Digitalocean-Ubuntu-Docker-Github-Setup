@@ -1,4 +1,4 @@
-# How to get started with DigitalOcean, Docker Compose, and GitHub
+# How to get started with Ubuntu server with Docker Compose and GitHub on DigitalOcean.
 
 ## Create a new droplet from Digital Ocean
 
