@@ -105,7 +105,7 @@ sudo apt-get update
 sudo apt-get install docker-compose-plugin
 ```
 
-Using `docker compose version` should now show v2.6.0 or higher.
+Using `docker compose version` should now show v2.12.2 or higher.
 
 ## Add a new user to server
 
